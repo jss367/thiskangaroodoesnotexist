@@ -7,4 +7,4 @@ The paper is here: https://arxiv.org/pdf/1704.00028.pdf
 
 Future thoughts:
 
-If we gave it enough photos of different animals, could it be expanded to create animals that don't exist?
+If we gave it enough photos of different animals, could it be expanded to create animals that don't exist (iNaturalist data?)?
